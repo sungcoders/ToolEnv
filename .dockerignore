@@ -1,0 +1,16 @@
+buildroot/output/
+buildroot/dl/
+buildroot/.git/
+buildroot/.config
+buildroot/**/*.o
+buildroot/**/*.a
+buildroot/**/*.so
+buildroot/**/*.cmd
+buildroot/**/.stamp_*
+buildroot/**/build/
+buildroot/**/host/
+buildroot/**/target/
+
+.git/
+.vscode/
+*.log

@@ -1,0 +1,4 @@
+buildroot/output/
+buildroot/build/
+buildroot/host/
+buildroot/dl/
